@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contacts
 layout: contact
 description: Contact
 ---
