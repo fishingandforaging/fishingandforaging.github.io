@@ -3,7 +3,6 @@ layout: default
 permalink: /what-we-do/
 title: what we do
 ---
-
 The inshore waters of the Swedish west coast are home to some of the finest shellfish in the world and at least twenty edible species are to be found in the coastal waters of northern bohuslän.
 
 We work primarily with the following;
