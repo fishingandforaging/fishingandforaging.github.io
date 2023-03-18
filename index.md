@@ -14,7 +14,7 @@ Learn to harvest, handle, prepare and enjoy what nature has to offer
 * Gather cockles, winkles and shallow-water shrimp
 * Forage the beach and islands for edible and medicinal plants, berries and mushrooms
 
-The inshore waters of the Swedish west coast are home to some of the finest shellfish in the world and at least twenty edible species are to be found in the coastal waters of northern bohuslän. 
+The inshore waters of the Swedish west coast are home to many of the finest shellfish in the world. At least twenty edible species are to be found in the coastal waters of northern bohuslän. 
 
 We work primarily with the following;
 * Oysters, pacific (Crassostrea gigas) and native (Ostrea edulis)
@@ -23,14 +23,14 @@ We work primarily with the following;
 * Brown crab (Cancer pagurus) and the European lobster (Homarus gammarus).  
 
 We also work with some less common species such as
-* cockles
-* whelks
-* winkles
-* razor shell, and
-* shallow water shrimp.
+* cockles (Cerastoderma edule)
+* whelks (Buccinum undatum)
+* periwinkles (Littorina littorea)
+* razor shells (Ensis ensis)
+* shallow water shrimp (Palaemon elegans, Crangon crangon)
 
 In addition we forage the beach and islands for edible plants, wild fruits and edible mushrooms.
 
-Our courses are intended to show how satisfying it can be to harvest, handle, prepare and, not least of all, consume and enjoy what nature, and the sea In particular, have to offer.
+Our courses are intended to show how satisfying it is to harvest, handle, prepare and, not least of all, consume and enjoy what nature, and the sea In particular, have to offer.
 
-The courses are designed for groups of up to one dozen participants. The programme varies depending on the time of year and other factors and can be adapted to fit in with individual interests and requirements.
+The courses, evenings, one day or weekends, are primarily designed for groups of up to one dozen participants, but can be adapted to fit in with particular interests and requirements.The programme varies depending on the time of year and other factors 
