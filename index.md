@@ -12,9 +12,9 @@ title: "fishing and foraging"
 shellfish evenings 
 
 # Day or Weekend course
-## Courses taylor-made to your requirements
+## Courses tailor-made to your requirements
 
-* Go trap-fishing for Norway lobster (Nephrops norvegicus), Brown crab (Cancer pagurus) and Lobster (Homarus gammarus)
+* Go trap-fishing for Norway lobster [(Nephrops norvegicus)](https://en.wikipedia.org/wiki/Nephrops_norvegicus){:target="_blank"}., Brown crab [(Cancer pagurus)](https://en.wikipedia.org/wiki/Cancer_pagurus){:target="_blank"} and Lobster [(Homarus gammarus)](https://en.wikipedia.org/wiki/Homarus_gammarus){:target="_blank"}
 * Learn how to harvest and prepare oysters and mussels
 * Gather cockles, winkles and shallow-water shrimp
 * Forage the beach and islands for edible plants, berries and mushrooms
