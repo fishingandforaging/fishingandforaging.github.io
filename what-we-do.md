@@ -1,12 +1,10 @@
 ---
-layout: post
-title:  "What We Do"
-date:   2023-03-17 14:17:20 +0100
-categories:
+layout: default
+permalink: /what-we-do/
+title: what we do
 ---
-Extraction and processing of raw materials from the sea has been one of the basic prerequisites for survival and development in Bohuslän since time immemorial.
 
-The inshore waters of the Swedish west coast are home to some of the finest shellfish in the world and at least twenty edible species are to be found in the coastal waters of northern bohuslän.  Very few of these species are commercially exploited.
+The inshore waters of the Swedish west coast are home to some of the finest shellfish in the world and at least twenty edible species are to be found in the coastal waters of northern bohuslän.
 
 We work primarily with the following;
 Oysters (pacific and native), Blue mussels, Norway lobster, Brown crab and Lobster.
@@ -17,7 +15,6 @@ And we forage the beach and islands for edible plants, wild fruits and edible mu
 The programme varies depending on the time of year and other factors
 and can be adapted to fit in with individual interests and requirements.
 
-Generally, interest in shellfish is considerable whilst knowledge is often limited.
 
 Our courses are intended to take advantage of that interest, share our accumulated knowledge, and learn how satisfying it can be to harvest, handle, prepare and, not least of all, consume and enjoy what nature, and the sea In particular, have to offer.
 

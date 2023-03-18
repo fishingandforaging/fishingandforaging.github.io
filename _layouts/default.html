@@ -4,10 +4,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/posts.css" | relative_url }}">
+    <!--<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/posts.css" | relative_url }}"-->
   </head>
   <body>
+    <nav>
+      <ul>
+        <li><a href="/what-we-do/">What We Do</a></li>
+        <li><a href="/">Home</a></li>
+      </ul>
+    </nav>
     {{ content }}
   </body>
 </html>
