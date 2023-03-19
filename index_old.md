@@ -3,7 +3,7 @@ layout: default
 title: "fishing and foraging"
 ---
 
-![Kraftor](/assets/images/kr%C3%A4fta_II_5438.jpg)
+![Kraftor](/assets/images/kr%C3%A4fta_II_5438_small.jpg)
 
 # Shellfish Courses
 Learn to harvest, handle, prepare and enjoy what nature has to offer
