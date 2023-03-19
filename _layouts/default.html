@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
@@ -8,14 +7,7 @@
     <link type="text/css" rel="stylesheet" href="/assets/css/style.css" />
   </head>
   <body>
-    <nav>
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/where-we-are/">Where We Are</a></li>
-        <li><a href="/what-we-do/">What We Do</a></li>
-        <li><a href="/contact/">Contact</a></li>
-      </ul>
-    </nav>
+    {% include nav.html %}
     <div class="container">
       {{ content }}
     </div>
