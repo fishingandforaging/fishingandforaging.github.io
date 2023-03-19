@@ -18,6 +18,20 @@
     height: 499px;
 }
 
+.banner-logo {
+    padding-left: 28px;
+    margin-top: 0px;
+    padding-top: 20px;
+    font-family: "Papyrus", Times, serif;
+    font-size: 80px;
+    color: white;
+    white-space: nowrap; 
+}
+
+.banner-logo p {
+    padding-top: 20px;
+}
+
 .container p {
     font-size: 24px;
     line-height: 30px;
