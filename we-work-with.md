@@ -23,7 +23,7 @@ In the summer of 2021 I graduated from Yrgos one-year sommelier training in Goth
 
 # SD477 Vågskär
 
-<img src="/assets/images/Vågskär.jpg" style="height: 400px;"/>
+<img src="/assets/images/Vagskar.jpg" style="height: 400px;"/>
 
 <br />
 
