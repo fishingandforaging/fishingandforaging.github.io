@@ -11,13 +11,9 @@ title: who we are
 
 <img src="/assets/images/Resized_Emelie_4871014261108.jpg" style="height: 400px;"/>
 
-I arrange wine tastings and lecture on wine. I work with private parties as well as associations and companies.
+I arrange wine tastings and lecture on wine. I work with private parties as well as associations and companies. I like to highlight origins and winemaking methods at my tastings, and try to find suitable wines to accompany various dishes, textures and tastes, always with the goal that it should be educational and fun!
 
-I like to highlight origins and winemaking methods at my tastings, and try to find suitable wines to accompany various dishes, textures and tastes, always with the goal that it should be educational and fun!
-
-This year I started higher Diploma studies at WSET School in London where I already have a Level 3 Award in Wines. 
-
-In the summer of 2021 I graduated from Yrgos one-year sommelier training in Gothenburg.
+This year I started higher Diploma studies at WSET School in London where I already have a Level 3 Award in Wines In the summer of 2021 I graduated from Yrgos one-year sommelier training in Gothenburg.
 
 <br />
 
@@ -42,6 +38,8 @@ Caroline Westman and Kristofer Olsson run a small mixed farm on the island of Re
 Over the years they have added ducks, rabbits, chickens and bees as well as pigs, “Linderödssvin”  who, as well as providing bacon, thoroughly turn-over and enrich the soil. All the fertiliser used on the farm comes from their own animals.
 
 Caroline and Kristofer are more or less self-sufficient in meat and veg.  In addition to staples such as potato, carrot and onion, they grow chard, beetroot, squash, spices, lettuce and cabbage as well as, in the greenhouse, tomatoes, paprika and cucumber. Later in the season they harvest both Jerusalem and globe artichokes, black root and several varieties of pumpkin, both for decoration and food. 
+
+<img src="/assets/images/garden.jpg" style="height: 400px;"/>
 
 In addition to seasonal ‘self-picking’ in the vegetable garden, there is a farm shop offering eggs, lamb, pork, sausages and honey all year round. The farm also produces sheepskins and other woollen products.  Children are always welcome and enjoy getting to know the animals, both big and small. During the winter the couple organise and cater for various events. Kristofer has a background as a chef and prepares all food from the farm's own raw materials. 
 
