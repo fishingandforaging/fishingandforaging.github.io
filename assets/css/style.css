@@ -50,6 +50,10 @@
     hyphens: auto; 
 }
 
+.container h1 {
+    font-family: "Trebuchet MS";
+}
+
 .container img {
     max-width: 100%;
     max-height: 100%;
@@ -60,8 +64,9 @@
 }
 
 .container {
+    font-family: "palatino";
     max-width: 800px;
-    margin: 0 auto;
+    margin: 20px;
     color: rgb(92, 24, 24);
 }
 
@@ -71,14 +76,23 @@ nav ul {
     background-color: #F2E8D1;
 }
 nav ul li {
-    margin-left: 2vw;
-    margin-right: 2vw;
+    margin-right: 4vw;
     margin-top: 2vw;
     margin-bottom: 2vw;
     height: auto;
-    font-family: "Papyrus", Times, serif;
-    font-size: 4vw;
+    font-family: "Trebuchet MS";
+    font-size: clamp(20px,4vw,16px);
 }
 nav ul li a {
     text-decoration: none;
     color: green
+}
+
+.container a:link, .container a:visited {
+    background-color: #F2E8D1;
+    color: green;
+    padding: 14px 25px;
+    text-align:left;
+    display: inline-block;
+  }
+  
