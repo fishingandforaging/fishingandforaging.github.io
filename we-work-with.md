@@ -29,7 +29,7 @@ This year I started higher Diploma studies at WSET School in London where I alre
 
 <br />
 
-# Resö Gård
+# Resö Gård, Caroline Westman and Kristofer Olsson
 
 <img src="/assets/images/reso_gard.jpg" style="height: 400px;"/>
 
