@@ -66,24 +66,22 @@
 .container {
     font-family: "palatino";
     max-width: 800px;
-    margin: 20px;
+    
+    margin-left: max(min(20px, 100% - 800px), 0px);
+    margin-right: max(min(20px, 100% - 800px), 0px);
+    margin-top: 20px;
+    margin-bottom: 20px;
+
     color: rgb(92, 24, 24);
 }
 
-@media all and (max-width: 800px) {
-     /* CSS rules here for screens lower than 750px */
-    .container {
-        margin: 0px;
-    }
-}
-
-
-nav ul {
+.old-nav ul {
     display: flex;
     list-style: none;
     background-color: #F2E8D1;
 }
-nav ul li {
+
+.old-nav ul li {
     margin-right: 4vw;
     margin-top: 2vw;
     margin-bottom: 2vw;
@@ -91,7 +89,8 @@ nav ul li {
     font-family: "Trebuchet MS";
     font-size: clamp(20px,4vw,16px);
 }
-nav ul li a {
+
+.old-nav ul li a {
     text-decoration: none;
     color: green
 }
