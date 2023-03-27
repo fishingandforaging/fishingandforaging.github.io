@@ -70,6 +70,14 @@
     color: rgb(92, 24, 24);
 }
 
+@media all and (max-width: 800px) {
+     /* CSS rules here for screens lower than 750px */
+    .container {
+        margin: 0px;
+    }
+}
+
+
 nav ul {
     display: flex;
     list-style: none;
