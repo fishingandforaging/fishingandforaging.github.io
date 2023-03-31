@@ -23,6 +23,13 @@ This year I started higher Diploma studies at WSET School in London where I alre
 
 <br />
 
+# Sally S. 
+# Grand Banks 42 Classic
+
+<img src="/assets/images/grandbanks.jpg" style="height: 500px;"/>
+
+<br />
+
 # Strömstad Räkor AB
 
 <img src="/assets/images/rakor1.jpg" style="height: 340px;"/>
@@ -50,6 +57,9 @@ Caroline and Kristofer also plan to carry on the Westman family tradition as oys
 # Syd Långö, Johan and Karin
 
 <img src="/assets/images/sydlångö.jpg" style="height: 400px;"/>
+
+# THE ISLANDMAN
+# Joakim Andersson, undersea forager, goatherd and poet.
 
 
 

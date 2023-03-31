@@ -41,7 +41,7 @@ Bring; warm clothes, rubber boots/waders or similar, life jacket if you have (ot
 
 # Gallery
 
-Some photos from previos events and the people we work with
+Some photos from previous events and the people we work with
 
 <div class="multi-gallery">
     <div class="gallery-title">

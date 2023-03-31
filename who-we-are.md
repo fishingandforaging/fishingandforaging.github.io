@@ -12,6 +12,8 @@ title: who we are
 
 # Rosa Zapata
 
+<img src="/assets/images/rosa.jpg" style="height: 500px;"/>
+
 <br />
 
 # Colin Scott Wheatley
