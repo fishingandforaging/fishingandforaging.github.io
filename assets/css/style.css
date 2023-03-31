@@ -102,4 +102,24 @@
     text-align:left;
     display: inline-block;
   }
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+.gallery img {
+    height: 200px;
+    object-fit: cover;
+    max-width: 100%;
+    min-width: 100%;
+}
+.gallery-item {
+    flex-grow: 1;
+    padding: 2px;
+    height: 200px;
+    background-color: white;
+}
+.gallery-title {
+    height: 30px;
+}
   

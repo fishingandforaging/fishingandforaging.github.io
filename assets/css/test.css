@@ -12,6 +12,7 @@ a{
     text-decoration: none;
 }
 ul{
+    /* unordered list - remove the bullet points */
     list-style: none;
 }
 
@@ -19,28 +20,18 @@ ul{
 .header{
     background-color: black;
     color: white;
-    box-shadow: 1px 1px 5px 0px grey;
-    position: sticky;
     top: 0;
     width: 100%;
-}
-/* Logo */
-.logo{
-    display: inline-block;
-    color: white;
-    font-size: 60px;
-    margin-left: 10px;
+    min-height: 80px;
 }
 
 /* Nav menu */
 .nav{
     width: 100%;
     height: auto;
-    position: fixed;
     background-color: black;
     overflow: hidden;
-    
-
+    max-height: 0;
 }
 .menu a{
     display: block;
@@ -54,15 +45,14 @@ ul{
 /* Menu Icon */
 .hamb{
     cursor: pointer;
-    float: right;
-    padding: 40px 20px;
-}/* Style label tag */
+    float: left;
+    padding: 36px 30px;
+} /* Style label tag */
 
 .hamb-line {
-    background: var(--white);
-    display: block;
+    background: white;
     height: 2px;
-    position: relative;
+    position: absolute;
     width: 24px;
 
 } /* Style span tag */
@@ -71,17 +61,16 @@ ul{
 .hamb-line::after{
     background: white;
     content: '';
-    display: block;
     height: 100%;
     position: absolute;
     transition: all .2s ease-out;
     width: 100%;
 }
 .hamb-line::before{
-    top: 5px;
+    top: 7px;
 }
 .hamb-line::after{
-    top: -5px;
+    top: -7px;
 }
 
 .side-menu {
@@ -110,7 +99,7 @@ ul{
         max-height: none;
         top: 0;
         position: relative;
-        float: right;
+        float: left;
         width: fit-content;
         background-color: transparent;
     }
@@ -119,7 +108,7 @@ ul{
     }
     .menu a:hover{
         background-color: transparent;
-        color: var(--gray);
+        color: gray;
 
     }
 
