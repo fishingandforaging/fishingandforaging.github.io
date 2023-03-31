@@ -84,6 +84,7 @@
 .old-nav ul li {
     margin-top: 2vw;
     margin-bottom: 2vw;
+    margin-right: 2vw;
     height: auto;
     font-family: "Trebuchet MS";
     font-size: clamp(20px,4vw,16px);
