@@ -67,8 +67,8 @@
     font-family: "palatino";
     max-width: 800px;
     
-    margin-left: max(min(20px, 100% - 800px), 0px);
-    margin-right: max(min(20px, 100% - 800px), 0px);
+    margin-left: max(min(20px, 100% - 360px), 0px);
+    margin-right: max(min(20px, 100% - 360px), 0px);
     margin-top: 20px;
     margin-bottom: 20px;
 
