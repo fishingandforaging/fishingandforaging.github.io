@@ -76,7 +76,7 @@
 }
 
 .old-nav ul {
-    display: flex;
+    display: flow-root;
     list-style: none;
     background-color: #F2E8D1;
 }
