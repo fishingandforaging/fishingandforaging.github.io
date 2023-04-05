@@ -14,13 +14,6 @@
     white-space: nowrap;    
 }
 
-.banner-image-1 {
-    background-image: url("/assets/images/banner.jpg");
-    background-size: cover;
-    background-position: right;
-    height: 499px;
-}
-
 .banner-image-2 {
     background-image: url("/assets/images/banner2.jpg");
     background-size: cover;
@@ -82,53 +75,3 @@
     text-align:left;
     display: inline-block;
   }
-
-.gallery {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 20px;
-    padding-left: max(min(20px, 100% - 360px), 0px);
-    padding-right: max(min(20px, 100% - 360px), 0px);
-    margin: 0px;
-    margin-bottom: 50px;
-    margin-top: 0px;
-    background-color: #F2E8D1;
-}
-.gallery img {
-    height: 200px;
-    object-fit: cover;
-    max-width: 100%;
-    min-width: 100%;
-}
-.gallery-item {
-    flex-grow: 1;
-    padding: 2px;
-    height: 200px;
-}
-.gallery-title {
-    font-family: "palatino";
-    text-align: top;
-    color: rgb(92, 24, 24);
-    font-size: 30px;
-    height: 35px;
-    background-color: #F2E8D1;
-    padding: 0px;
-    padding-top: 16px;
-    padding-left: 16px;
-    margin: 0px;
-    margin-top: 25px;
-}
-
-#fullpage {
-    display: none;
-    position: fixed;
-    z-index: 9999;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    background-size: contain;
-    background-repeat: no-repeat no-repeat;
-    background-position: center center;
-    background-color: black;
-}

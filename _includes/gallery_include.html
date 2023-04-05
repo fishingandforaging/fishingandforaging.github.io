@@ -9,6 +9,58 @@
       resö gård https://photos.app.goo.gl/EAwqx9rFqucfG8GRA
   
     -->
+
+    <style>
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 20px;
+            padding-left: max(min(20px, 100% - 360px), 0px);
+            padding-right: max(min(20px, 100% - 360px), 0px);
+            margin: 0px;
+            margin-bottom: 50px;
+            margin-top: 0px;
+            background-color: #F2E8D1;
+        }
+        .gallery img {
+            height: 200px;
+            object-fit: cover;
+            max-width: 100%;
+            min-width: 100%;
+        }
+        .gallery-item {
+            flex-grow: 1;
+            padding: 2px;
+            height: 200px;
+        }
+        .gallery-title {
+            font-family: "palatino";
+            text-align: top;
+            color: rgb(92, 24, 24);
+            font-size: 30px;
+            height: 35px;
+            background-color: #F2E8D1;
+            padding: 0px;
+            padding-top: 16px;
+            padding-left: 16px;
+            margin: 0px;
+            margin-top: 25px;
+        }
+
+        #fullpage {
+            display: none;
+            position: fixed;
+            z-index: 9999;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-size: contain;
+            background-repeat: no-repeat no-repeat;
+            background-position: center center;
+            background-color:#F2E8D1;
+        }
+    </style>
     
     <script>
         addEventListener("load", (event) => {
@@ -32,6 +84,7 @@
              let gallery_item = document.createElement("div");
              gallery_item.classList.add( "gallery-item" );
              let img = document.createElement( "img" );
+             img.classList.add("gallery-image");
              img.setAttribute("src", gallery_source_item.getAttribute( "data" ) );
              img.addEventListener('click', function() {
                 let fullPage = document.querySelector('#fullpage');
@@ -42,6 +95,11 @@
              gallery.appendChild( gallery_item );
            }
          }
+        });
+
+        addEventListener("resize", (event) => {
+            var images = document.getElementsByClassName("gallery-image");
+            console.log(images.length);
         });
      </script>
 
@@ -171,7 +229,6 @@
         fullPage.style.display='none';
     }
     </script>
-    
     <div id="fullpage" onclick="exitFullScreen()"></div>
     <div class="multi-gallery">
     <!-- filled in by script -->
