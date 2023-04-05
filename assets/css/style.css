@@ -87,6 +87,8 @@
     display: flex;
     flex-wrap: wrap;
     padding: 20px;
+    padding-left: max(min(20px, 100% - 360px), 0px);
+    padding-right: max(min(20px, 100% - 360px), 0px);
     margin: 0px;
     margin-bottom: 50px;
     margin-top: 0px;
@@ -107,7 +109,7 @@
     font-family: "palatino";
     text-align: top;
     color: rgb(92, 24, 24);
-    font-size: 36px;
+    font-size: 30px;
     height: 35px;
     background-color: #F2E8D1;
     padding: 0px;
