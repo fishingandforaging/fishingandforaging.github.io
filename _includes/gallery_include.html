@@ -11,14 +11,14 @@
     -->
     
     <script>
-        onLoad.push(function() {
+        addEventListener("load", (event) => {
          var multi_gallery = document.getElementsByClassName("multi-gallery")[ 0 ];
          var gallery_sources = document.getElementsByClassName("pa-gallery-player-widget");
          for ( let i = 0; i < gallery_sources.length; i++ ) { 
            let gallery_source = gallery_sources[ i ];
            let gallery_title = document.createElement("div");
            gallery_title.classList.add("gallery-title");
-           let p = document.createElement("p");
+           let p = document.createElement("span");
            gallery_title.appendChild( p );
            let text = document.createTextNode(gallery_source.getAttribute("data-title"));
            p.appendChild( text );
@@ -33,12 +33,18 @@
              gallery_item.classList.add( "gallery-item" );
              let img = document.createElement( "img" );
              img.setAttribute("src", gallery_source_item.getAttribute( "data" ) );
+             img.addEventListener('click', function() {
+                let fullPage = document.querySelector('#fullpage');
+                fullPage.style.backgroundImage = 'url(' + img.src + ')';
+                fullPage.style.display = 'block';
+            });
              gallery_item.appendChild( img );
              gallery.appendChild( gallery_item );
            }
          }
-        })
+        });
      </script>
+
      <div hidden>
        <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
          data-link="https://photos.app.goo.gl/uGb7QcyHAAS4iiug9"
@@ -158,6 +164,15 @@
          <div data="https://lh3.googleusercontent.com/6QvY8E-95vFLrkguGgK6WKhO2J9haOmzndz68W2B4igd2NLjYLlZMcWYxkAepD6DRtU7Z5Z2yRUWxzqC4OzbN8x1BO5E_k6so3D-oUmSqC6z_8flud37N8O-7f4uwA6Smv-X9FwsVQ=w1920-h1080"></div>
        </div>
      </div>
-     <div class="multi-gallery">
-       <!-- filled in by script -->
-     </div>
+    
+    <script>
+    function exitFullScreen() {
+        let fullPage = document.querySelector('#fullpage');
+        fullPage.style.display='none';
+    }
+    </script>
+    
+    <div id="fullpage" onclick="exitFullScreen()"></div>
+    <div class="multi-gallery">
+    <!-- filled in by script -->
+    </div>

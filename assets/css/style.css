@@ -86,7 +86,11 @@
 .gallery {
     display: flex;
     flex-wrap: wrap;
-    margin: 20px;
+    padding: 20px;
+    margin: 0px;
+    margin-bottom: 50px;
+    margin-top: 0px;
+    background-color: #F2E8D1;
 }
 .gallery img {
     height: 200px;
@@ -98,9 +102,31 @@
     flex-grow: 1;
     padding: 2px;
     height: 200px;
-    background-color: white;
 }
 .gallery-title {
-    height: 30px;
+    font-family: "palatino";
+    text-align: top;
+    color: rgb(92, 24, 24);
+    font-size: 36px;
+    height: 35px;
+    background-color: #F2E8D1;
+    padding: 0px;
+    padding-top: 16px;
+    padding-left: 8px;
+    margin: 0px;
+    margin-top: 25px;
 }
-  
+
+#fullpage {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-size: contain;
+    background-repeat: no-repeat no-repeat;
+    background-position: center center;
+    background-color: black;
+}
