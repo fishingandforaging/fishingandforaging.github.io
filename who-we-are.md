@@ -6,7 +6,17 @@ title: who we are
 
 # Hanna Mogren
 
+[Frejas Haga AB.](https://www.frejas.se)
+
 <img src="/assets/images/Hanna.jpg" style="height: 500px;"/>
+
+Hanna developed an early interest in edible and medicinal plants encouraged by her grandfather who lived at the miller's house, a magical spot "at the end of the road and a little bit further" where Hannna spent the summers of her childhood. The house is situated by the old mill with its millstream, below a beautiful lake and surrounded by towering cliffs, forests and meadows which are home to a cornucopia of flora and fauna. Hanna formed a lasting attachment to the property where she now lives with her son Leo, husband Peter, Sammy the Belgian shepherd and a library of botanical and 'self-sufficiency' literature.  The garden is an ongoing projekt. 
+
+After a chequered career which includes lorry-driving. team-building and adventure-training Hanna became a full-time gardener, started her own company more than 15 years ago and now designs, creates and maintains gardens of every shape and size through her company Frejas Haga AB.
+
+Hannas enthusiasm for foraging is unstoppable and she continues to enjoy and develop her interest in wild foods, including algae and other marine and coastal species. Hanna is a key member of the Shellfish Society.
+
+
 
 <br />
 
