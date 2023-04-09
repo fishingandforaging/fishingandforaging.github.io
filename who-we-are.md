@@ -8,7 +8,7 @@ title: who we are
 
 [Frejas Haga AB.](https://www.frejas.se)
 
-<img src="/assets/images/Hanna.jpg" style="height: 500px;"/>
+<img src="/assets/images/Hanna.jpg" style="width: 300px;"/>
 
 Hanna developed an early interest in edible and medicinal plants encouraged by her grandfather who lived at the miller's house, a magical spot "at the end of the road and a little bit further" where Hannna spent the summers of her childhood. The house is situated by the old mill with its millstream, below a beautiful lake and surrounded by towering cliffs, forests and meadows which are home to a cornucopia of flora and fauna. Hanna formed a lasting attachment to the property where she now lives with her son Leo, husband Peter, Sammy the Belgian shepherd and a library of botanical and 'self-sufficiency' literature.  The garden is an ongoing projekt. 
 
@@ -22,13 +22,13 @@ Hannas enthusiasm for foraging is unstoppable and she continues to enjoy and dev
 
 # Rosa Zapata
 
-<img src="/assets/images/rosa.jpg" style="height: 500px;"/>
+<img src="/assets/images/rosa.jpg" style="width: 400px;"/>
 
 <br />
 
 # Colin Scott Wheatley
 
-<img src="/assets/images/Colin.jpg" style="height: 400px;"/>
+<img src="/assets/images/Colin.jpg" style="width: 400px;"/>
 
 Colin Wheatley started fishing on the island of Jersey in the early 1960's working 300 lobster pots out of Rozel under the legendary skipper Bob Viney. In 1964 he moved to London, trained as a journalist and worked in broadcasting for a decade before buying a ruined cottage in the hebrides where he took up lobster fishing once again. Visiting Sweden in the late 70's he bought a 40 foot fishing boat and fished for cod out of Kårehamn, Öland before moving to the west coast where he found employment as a skipper/technician at Tjärnö Marine Laboratory. 
 
@@ -40,7 +40,21 @@ Since retirement in 2008 he has worked as crew on a shrimp trawler, participated
 
 # Mikael Öster
 
-<img src="/assets/images/Mikael.jpg" style="height: 300px;"/>
+<img src="/assets/images/Mikael.jpg" style="width: 400;"/>
+
+Mikael grew up with four sisters, a childhood divided between the kitchen and the
+kitchen garden with woodland forays to gather mushrooms and berries interspersed with
+beachcombing and fishing trips. All of which bred an early interest in foraged foods and in fish and shellfish in particular. His culinary interests were encouraged by his French mother and Swedish father, an innkeeper and Chef par excellence.
+
+As an adult, Mikael has had an extraordinary career, gathering experience in Switzerland,
+France, Canada, Denmark and Iceland before returning to Sweden, where he created and ran ‘Westra Piren’, a riverside restaurant in Central Gothenburg revered as one of the finest eating places in the country with a coveted star in the world famous Michelin Guide.
+
+Mikael’s many acknowledgements include the Academy of Gastronomy's Gold Medal, the West Swedish Restaurant Academy's Gold Medal, and a nomination for Relais Gourmand's "50 Greatest Chefs in the World".
+
+In 2016 Mikael, with his wife Lise-Lotte, settled in Northern Bohuslän where he is busy
+pursuing a new career as a fishmonger with premises on the fishing haöour in the local town of Strömstad. ln addition he finds time to provide invaluable assistance and advice to the
+Shellfish Society. Our own Gastronomic Guru!
+
 
 <br />
 
