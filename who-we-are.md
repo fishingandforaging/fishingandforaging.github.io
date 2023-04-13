@@ -8,7 +8,7 @@ title: who we are
 
 [Frejas Haga AB.](https://www.frejas.se)
 
-<img src="/assets/images/Hanna.jpg" style="width: 300px;"/>
+<img src="/assets/images/Hanna.jpg" style="width: 360px;"/>
 
 Hanna developed an early interest in edible and medicinal plants encouraged by her grandfather who lived at the miller's house, a magical spot "at the end of the road and a little bit further" where Hannna spent the summers of her childhood. The house is situated by the old mill with its millstream, below a beautiful lake and surrounded by towering cliffs, forests and meadows which are home to a cornucopia of flora and fauna. Hanna formed a lasting attachment to the property where she now lives with her son Leo, husband Peter, Sammy the Belgian shepherd and a library of botanical and 'self-sufficiency' literature.  The garden is an ongoing projekt. 
 
@@ -22,13 +22,13 @@ Hannas enthusiasm for foraging is unstoppable and she continues to enjoy and dev
 
 # Rosa Zapata
 
-<img src="/assets/images/rosa.jpg" style="width: 400px;"/>
+<img src="/assets/images/rosa.jpg" style="width: 360px;"/>
 
 <br />
 
 # Colin Scott Wheatley
 
-<img src="/assets/images/Colin.jpg" style="width: 400px;"/>
+<img src="/assets/images/Colin.jpg" style="width: 360px;"/>
 
 Colin Wheatley started fishing on the island of Jersey in the early 1960's working 300 lobster pots out of Rozel under the legendary skipper Bob Viney. In 1964 he moved to London, trained as a journalist and worked in broadcasting for a decade before buying a ruined cottage in the hebrides where he took up lobster fishing once again. Visiting Sweden in the late 70's he bought a 40 foot fishing boat and fished for cod out of Kårehamn, Öland before moving to the west coast where he found employment as a skipper/technician at Tjärnö Marine Laboratory. 
 
@@ -40,7 +40,7 @@ Since retirement in 2008 he has worked as crew on a shrimp trawler, participated
 
 # Mikael Öster
 
-<img src="/assets/images/Mikael.jpg" style="width: 400;"/>
+<img src="/assets/images/Mikael.jpg" style="width: 360px;"/>
 
 Mikael grew up with four sisters, a childhood divided between the kitchen and the
 kitchen garden with woodland forays to gather mushrooms and berries interspersed with
