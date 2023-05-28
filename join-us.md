@@ -13,7 +13,7 @@ Please come and join us!
     <input type="hidden" name="accessKey" value="63c9d080-83be-48f7-8c02-07219db6e14c">
     <input type="hidden" name="subject" value="Membership Application">
     <!-- Replace with the url you want to redirect to -->
-    <input type="hidden" name="redirectTo" value="https://fishingandforaging.se/join-us#submitted">
+    <input type="hidden" name="redirectTo" value="https://fishingandforaging.se/thanks-for-joining">
     <div class="field">
         <label class="label">Name</label>
         <div class="control">
