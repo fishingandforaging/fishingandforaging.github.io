@@ -75,3 +75,36 @@
     text-align:left;
     display: inline-block;
   }
+
+.field {
+    background-color: #F2E8D1;
+    background: #F2E8D1;
+    padding: 4px;
+    font-size: 20px;
+}
+
+.form {
+    background-color: #F2E8D1;
+    background: #F2E8D1;
+    padding: 10px;
+}
+
+.button {
+    padding: 10px;
+    margin: 4px;
+    background-color:green;
+    color: white;
+    font-size: 25px;
+    font-family: "Papyrus", Times, serif;
+    width: 100%;
+}
+
+.input {
+    width: 100%;
+    font-size: 16px;
+}
+
+.textarea {
+    width: 100%;
+    font-size: 16px;
+}

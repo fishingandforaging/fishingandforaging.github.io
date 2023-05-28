@@ -24,6 +24,13 @@ Hannas enthusiasm for foraging is unstoppable and she continues to enjoy and dev
 
 <img src="/assets/images/rosa.jpg" style="width: 360px;"/>
 
+<rosa@fishingandforaging.se>
+
+Rosa grew up in a coffee-growing community in the highlands of Colombia. 
+She moved to Sweden in 2015 where she trained and worked as a pre-school teacher. She now has Swedish citizenship and runs her own company managing various properties and providing a wide range of holiday accommodation. From a simple woodland cabin to an impressive, early 20th century, 3 bedroomed apartment with magnificent sea views;
+Talk to Rosa, she'll help find somewhere to suit your particular requirements.
+
+
 <br />
 
 # Colin Scott Wheatley
