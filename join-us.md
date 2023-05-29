@@ -19,6 +19,9 @@ We can help with accommodation, boat charters, fishing trips, foraging excursion
 
 [Read the constitution!](/sss_stadgar.pdf)
 
+[Read the minutes from the inaugaration meeting!](/minutes.pdf)
+
+
 <div class="form">
     <form action="https://api.staticforms.xyz/submit" method="post" id="staticform">
         <input type="hidden" name="accessKey" value="63c9d080-83be-48f7-8c02-07219db6e14c">
