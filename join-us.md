@@ -17,9 +17,9 @@ Membership gives access to the programme of activities as well as the opportunit
 
 We can help with accommodation, boat charters, fishing trips, foraging excursions, island picnicks, oyster evenings at the boathouse with a guest chef and sommelier, and lots more besides. In fact, to coin a phrase, the world is our oyster.
 
-[Read the constitution!](/sss_stadgar.pdf)
+[Read the constitution](/sss_stadgar.pdf)
 
-[Read the minutes from the inaugaration meeting!](/minutes.pdf)
+[Read the minutes from the inaugaration meeting](/minutes.pdf)
 
 
 <div class="form">
