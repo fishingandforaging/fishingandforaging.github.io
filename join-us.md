@@ -6,21 +6,11 @@ title: join us
 
 # Join Us!
 
-The Swedish Shellfish Society was formed by a loosely-knit group of enthusiasts brought together by common interests. You can become a member by filling in the form below or by sending an email to
-
-<info@fishingandforaging.se> 
-
-Let us know if you have any particular interest or skills that you would be prepared to share with the group. Can you open an oyster? steer a small boat? Are you interested in edible plants? 
-Remember, we believe in learning by doing and in sharing our knowledge and experience.
-
-Membership gives access to the programme of activities as well as the opportunity to put a group together and, with the help of our various partners, organise an event to suit your own interests and requirements.  
-
-We can help with accommodation, boat charters, fishing trips, foraging excursions, island picnicks, oyster evenings at the boathouse with a guest chef and sommelier, and lots more besides. In fact, to coin a phrase, the world is our oyster.
+The Swedish Shellfish Society was formed by a loosely-knit group of enthusiasts brought together by common interests. You can become a member by filling in the form below.
 
 [Read the constitution](/sss_stadgar.pdf)
 
 [Read the minutes from the inaugaration meeting](/minutes.pdf)
-
 
 <div class="form">
     <form action="https://api.staticforms.xyz/submit" method="post" id="staticform">
@@ -54,6 +44,15 @@ We can help with accommodation, boat charters, fishing trips, foraging excursion
         <button class="button" type="Submit">join the shellfish society!</button>
     </form>
 </div>
+
+Let us know if you have any particular interest or skills that you would be prepared to share with the group. Can you open an oyster? steer a small boat? Are you interested in edible plants? 
+Remember, we believe in learning by doing and in sharing our knowledge and experience.
+
+Membership gives access to the programme of activities as well as the opportunity to put a group together and, with the help of our various partners, organise an event to suit your own interests and requirements.  
+
+We can help with accommodation, boat charters, fishing trips, foraging excursions, island picnicks, oyster evenings at the boathouse with a guest chef and sommelier, and lots more besides. In fact, to coin a phrase, the world is our oyster.
+
+
 
 
 
