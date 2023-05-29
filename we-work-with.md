@@ -21,6 +21,15 @@ This year I started higher Diploma studies at WSET School in London where I alre
 
 <img src="/assets/images/Vagskar.jpg" style="width: 360px;"/>
 
+MFV Vågskär<br>
+Owner/Skipper Niclas Gunnarsson<br>
+SD477<br>
+Callsign: SFB-8479<br>
+Aramis 30 built 1986<br>
+Length: 9m<br>
+Beam: 3m<br>
+Motor: Volvo Penta TMD 41a<br>
+Registered for 5 passengers
 <br />
 
 # Sally S. 
@@ -28,6 +37,17 @@ This year I started higher Diploma studies at WSET School in London where I alre
 
 <img src="/assets/images/grandbanks.jpg" style="width: 360px;"/>
 
+M.Y. Sally S.<br>
+Owner/Skipper: Henrik Gunnarsson<br>
+Callsign: SFE-4944<br>
+Grand Banks 42 Classic <br>
+Built Singapore 1980<br>
+Length: 12,40m<br>
+Length overall: 14,20m<br>
+Beam: 4.30m<br>
+Powered by 2 x 145 h.p. 9 litre Ford<br>
+Registered for 12 passengers. <br>
+Callsign: SFE-4944
 <br />
 
 # Strömstad Räkor AB

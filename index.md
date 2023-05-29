@@ -38,3 +38,7 @@ Returning with our catch we visit Syd Längö with its safe harbour and narrow s
 Eventually we return to the boathouse at Nötholmen where we spend the remainder of the day taking care of the day's harvest, composing the menu, preparing the ingredients and enjoying a world-class meal together. Our chef and (optional) sommelier contribute to the experience.
  
 Bring; warm clothes, rubber boots/waders or similar, life jacket if you have (otherwise we have)
+
+# Join Us!
+
+[Read about the society and become a member!](/join-us/)
