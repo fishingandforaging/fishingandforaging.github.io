@@ -4,6 +4,12 @@ permalink: /we-work-with/
 title: who we are
 ---
 
+# Syd Långö, Johan and Karin
+
+<img src="/assets/images/sydlångö.jpg" style="width: 360px;"/>
+
+<br>
+
 # Emelie Westman
 
 [Westman Wine](https://westmanwine.se/)
@@ -72,11 +78,6 @@ In addition to seasonal ‘self-picking’ in the vegetable garden, there is a f
 
 Caroline and Kristofer also plan to carry on the Westman family tradition as oyster fisherman, realising a long-standing dream of living and working locally as fisherman-farmers. 
 
-<br />
-
-# Syd Långö, Johan and Karin
-
-<img src="/assets/images/sydlångö.jpg" style="width: 360px;"/>
 
 
 
