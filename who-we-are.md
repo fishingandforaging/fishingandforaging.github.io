@@ -8,7 +8,7 @@ title: who we are
 
 [Frejas Haga AB.](https://www.frejas.se)
 
-<img src="/assets/images/Hanna.jpg" style="width: 360px;"/>
+<img src="/assets/images/Hanna_Square.jpg" style="width: 360px;"/>
 
 Hanna developed an early interest in edible and medicinal plants encouraged by her grandfather who lived at the miller's house, a magical spot "at the end of the road and a little bit further" where Hannna spent the summers of her childhood. The house is situated by the old mill with its millstream, below a beautiful lake and surrounded by towering cliffs, forests and meadows which are home to a cornucopia of flora and fauna. Hanna formed a lasting attachment to the property where she now lives with her son Leo, husband Peter, Sammy the Belgian shepherd and a library of botanical and 'self-sufficiency' literature.  The garden is an ongoing projekt. 
 
