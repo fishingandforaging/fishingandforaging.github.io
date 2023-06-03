@@ -42,3 +42,15 @@ Bring; warm clothes, rubber boots/waders or similar, life jacket if you have (ot
 # Join Us!
 
 [Read about the society and become a member!](/join-us/)
+
+<!---
+take away island
+stronstand raker
+put syd longer at top
+take away joakim
+shrimk emily a bit
+
+any queries or xomments
+
+mail us at info@
+-->

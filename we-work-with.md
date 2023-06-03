@@ -9,7 +9,7 @@ title: who we are
 [Westman Wine](https://westmanwine.se/)
 
 
-<img src="/assets/images/Resized_Emelie_4871014261108.jpg" style="width: 360px;"/>
+<img src="/assets/images/Emelie_Square.jpg" style="width: 360px;"/>
 
 I arrange wine tastings and lecture on wine. I work with private parties as well as associations and companies. I like to highlight origins and winemaking methods at my tastings, and try to find suitable wines to accompany various dishes, textures and tastes, always with the goal that it should be educational and fun!
 
@@ -50,11 +50,11 @@ Registered for 12 passengers. <br>
 Callsign: SFE-4944
 <br />
 
-# Strömstad Räkor AB
+<!--# Strömstad Räkor AB
 
 <img src="/assets/images/rakor1.jpg" style="width: 360px;"/>
 
-<br />
+<br />-->
 
 # Resö Gård, Caroline Westman and Kristofer Olsson
 
