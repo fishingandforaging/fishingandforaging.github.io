@@ -4,9 +4,33 @@ permalink: /we-work-with/
 title: who we are
 ---
 
-# Syd Långö, Johan and Karin
+# Syd Långö
 
 <img src="/assets/images/sydlångö.jpg" style="width: 360px;"/>
+
+The island is managed and run by Johan Jägvald and his wife Karin.
+
+[www.sydlango.se](https://www.sydlango.se/) <info@sydlango.se>
+
+A 20 min voyage through the archipelago from the boathouse lies the island of Syd Långö.
+The small natural harbour on the eastern side with it’s narrow entrance provides a safe
+haven for small craft and the island is a treasure trove for the forager. Meadows and
+woodland support an extensive flora and an impressive diversity of shellfish are to be found
+on the beaches and along the shoreline.
+
+The island has a fascinating history with remains from the bronze age and a ruined fishmeal
+factory from the late 19th century. In 1918 the island was taken over by the Rydbeck family
+who created extensive gardens with a variety of unusual species including exotic lillies,
+bamboo and asparagus. The family also introduced a number of deciduous trees including
+chestnut and a walnut!
+
+In 1952 the island was acquired by the Gränges company who established a holiday centre
+for their employees. Since 1978 the island has been owned and run by the Swedish steel
+company SSAB who, together with Electrolux AB, continue to provide holiday
+accommodation for their staff.
+
+
+
 
 <br>
 
