@@ -63,12 +63,14 @@ pursuing a new career as a fishmonger with premises on the fishing haöour in th
 Shellfish Society. Our own Gastronomic Guru!
 
 
-<br />
+<!-- <br />
 
 # THE ISLANDMAN
 # Joakim Andersson, undersea forager, goatherd and poet.
 
 <br />
+
+-->
 
 
 
