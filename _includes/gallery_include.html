@@ -38,13 +38,22 @@
             text-align: top;
             color: rgb(92, 24, 24);
             font-size: 30px;
-            height: 35px;
+            height: auto;
             background-color: #F2E8D1;
             padding: 0px;
             padding-top: 16px;
             padding-left: 16px;
             margin: 0px;
             margin-top: 25px;
+        }
+
+        .sub-heading {
+          font-family: "Trebuchet MS";
+          font-size: 18px;
+          padding: 0px;
+          padding-top: 16px;
+          padding-left: 16px;
+          padding-right: 16px;
         }
 
         #fullpage {
@@ -70,10 +79,15 @@
            let gallery_source = gallery_sources[ i ];
            let gallery_title = document.createElement("div");
            gallery_title.classList.add("gallery-title");
-           let p = document.createElement("span");
+           let p = document.createElement("div");
            gallery_title.appendChild( p );
            let text = document.createTextNode(gallery_source.getAttribute("data-title"));
            p.appendChild( text );
+           let p2 = document.createElement("div");
+           gallery_title.appendChild( p2 );
+           let subText = document.createTextNode(gallery_source.getAttribute("data-description"));
+           p2.appendChild( subText );
+           p2.classList.add("sub-heading");
            let gallery = document.createElement("div");
            gallery.classList.add("gallery");
            multi_gallery.appendChild( gallery_title );
@@ -107,7 +121,7 @@
        <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
          data-link="https://photos.app.goo.gl/uGb7QcyHAAS4iiug9"
          data-title="At the Boathouse..."
-         data-description="29 new items added to shared album">
+         data-description="">
          <div data="https://lh3.googleusercontent.com/pw/AMWts8ANaO89Icsgi5vj1WyuX7PQgwmo8L_PWUsyfh-qeA0zsPaBI0sZhGZOP5cz2uUOMO-NxT2e3TMhOQpNmaIVyi88y850uAoLRmvlAo0nq0E5THHFFbo=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/pw/AMWts8D29OEz8ahZPKUo9N_lt4lhZ_Byx8AomflWffE7z7EQpQKq4yS3D6JMHWEEbdJuiZR-7kdDTO8eFDS3Dd5n6VdRqDIGGh_mbHFo5Yh35Bmm4IiN8-g=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/pw/AMWts8DM5jc48WiIrJ5dJuJTGHxr5mgwRBaM9vJ2XhKR-1WEXUTkGohHnIYrUeQikmuagV7dSJRSQkIeICdI_BfJVQwPKdB9qyOTVahYen9S2rsaJJQSESg=w1920-h1080"></div>
@@ -141,7 +155,7 @@
        <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
          data-link="https://photos.app.goo.gl/ipqKV4vrwJdBEKM46"
          data-title="Wooden Boats..."
-         data-description="7 new items added to shared album">
+         data-description="">
          <div data="https://lh3.googleusercontent.com/pZYfZENvZHQCvOFnjMGNKxP4LAfHBmlFYy_8AEhfuvzUpkiXMLNEK422It5hfSozEVZAWLjYGrfEtrCE6aE_kpyeCWCp2iI2wf_5jy0GrnhoFkkKa82QSY-YdF6IoIdsNd5r91ru7w=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/krbzpWEOH3VaQwWODZqkpV5WmDNMpKPan5K378fw06uqOUq-VJOP03T_YlNXye3-djb-IHDxpIbsi6CJ-hDmXzT5GPXaYACaqi2sY34rxtt8AsKM1jF5pU4Pg-kx1e9Sb7M7Vyq7uQ=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/mSrzM7nv39U86H0I58zdmP_YaINrXaXvftixPMe5RjwTFjyFXyaerQHb3Q-uFeUscHogrRKOqtouSrRwnbgEjkqqyz8tFbM9ckjMv93pLb2RtuuPK5SJeIpMcYA59jHvMsBKCQdg5w=w1920-h1080"></div>
@@ -153,7 +167,7 @@
        <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
          data-link="https://photos.app.goo.gl/sorQTnysF7Yqzmvs6"
          data-title="Fishing..."
-         data-description="13 new items added to shared album">
+         data-description="The inshore waters of the Swedish west coast are home to some of the finest shellfish in the world and at least twenty edible species are to be found in the coastal waters of northern bohuslän. We work primarily with the following; Oysters, pacific (Crassostrea gigas) and native (Ostrea edulis), Blue mussels (mytilus edulis) Norway lobster (Nephrops norvegicus), Brown crab (Cancer pagurus) and  the European lobster (Homarus gammarus).  We also work with some less common species such as cockles, whelks, winkles, razor shell, and shallow water shrimp. In addition we forage the beach and islands for edible plants, wild fruits and edible fungi.">
          <div data="https://lh3.googleusercontent.com/o4BtfROGvuUzrKmHXgWP5ms8WwjtFlRcLO7wkkDMOo598O2IWfA6-LjOloqL0uU2K4po5KpdsyTc5zAnNdVR1S0p1tjZpEqJmz0gbY4iemfwEVusvnDDxq2EdA2_WoOCyG5huzVK9w=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/J_WzUnwf_L6GwPioYTYCiySTrowSPCAOEE1jiILEj3pAqtgw_A8Evbge8tmnjNkcxk-gXt9qq1I-_ss8O9czmOvWVirLz37byQ_MaEEGY625RxO86Ib6vRY3e8dhGlIA5c6U4PteSQ=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/cWRb10PI7xZxYYuEYkuXbABxJbO0nn7jwec8Dki0CXnQ5qtO6a0JFybDWc2askxspZyZbeOmnsHHXNmGlHMsMSEgNrfGBD1ZwtYvpC8mhKhR9qH5MDE53YVjYrDdEmjg76CKZ2fUyQ=w1920-h1080"></div>
@@ -171,7 +185,7 @@
        <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
          data-link="https://photos.app.goo.gl/xZ7byxcyyDAWwgnE6"
          data-title="Harvesting Oysters..."
-         data-description="8 new items added to shared album">
+         data-description="">
          <div data="https://lh3.googleusercontent.com/p1PS58iwyt97WjngFtRhV5Rcpl1UMt3U4wZjUucUxrHb5WlLcYtqA9mCVQwDpFcsBYDCLv3ZKMibo4nYNMr9PfK7OHAaEhfWfw2RXWOSuMcRAZXyTOQE9rfedhK8_XM1CWe9EAkxTg=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/WpuocFL7XFrnveGFdhKCtVfZXSfJGK2br2Kcphxk_uegDAmZjXoQZ-lzJ1Fb5cbDnE_2YOpvXT_aeIeYIF3-_R58U4i_eBL3wsfQsHb5zdB6c9YtTvSCfa8xoi-hX3UQy9v1TRhbKg=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/pnPievMB2eG7xp_rkIxOjVH54NZnfksogNxCQ9NvLntVB4XJ8b8GTylGyMJYi2lJQIJt_6ACj2EBlbTSi3S0TlaVsFz_lzhQeRPkBPIwlw58jKhrKFsmMEreJVemh84vPBIPqrcG9Q=w1920-h1080"></div>
@@ -184,7 +198,7 @@
        <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
          data-link="https://photos.app.goo.gl/RANL4MCgetCm5c1J9"
          data-title="Foraging the Beach..."
-         data-description="11 new items added to shared album">
+         data-description="">
          <div data="https://lh3.googleusercontent.com/kDKqb-pYgCRj9hCLL0F4S1sWr9JlgKhQxUuBwEXgJ62JWOKm1hVjn-y4sDKUgxs6zyeqZaRdoqbepYSuKWb_7oR1BUrUlFg6DSwvxOLP9RdXoPSQ8uUBzMPr9zimBu5h0F1B0qKw1g=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/P7fHE1vh62s0gAnyJq6hFEkC5KUCmrdB8_dBjOviz57xXMEOushH2S7UYmIblz1Lnxide6yLjvELw29UAuRx2Gc46SNRjcO2wtJWBJBwtvMV-zYFy3tl0l7hqDnoLm03IRGPvIIu7A=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/iyxsn4ckVcI6V5C-g_tiXJ6v9U2OdmP8-j91H-O-4gtP9Q32d8gS_1b25V_WfTHPy4jjOSttI760s7BBvJ06ydgO7SBvwRwzdmKIYi6hoId12l72DDJr0LtQExjPESrmWGycg-ywmA=w1920-h1080"></div>
@@ -200,7 +214,7 @@
        <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
          data-link="https://photos.app.goo.gl/Ut8sNVASARL3uJST7"
          data-title="Foraging the Woods..."
-         data-description="5 new items added to shared album">
+         data-description="">
          <div data="https://lh3.googleusercontent.com/QRAAD2MOI9CEFmKmN4zqURAszAOfAVc4_adZrlLKJjMtSxzbinL88TtqhKqO2qb8uuMiB7zpK3QfCZYlTAiqRamvvbjxJdFjnnAgZxuu1OBjnwjdjLxl-xHyLmspo8G1qG6UzbZVUg=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/Z4nVXtAIDTt3QFRT4ZhgkJj3rgQ-ZNR7YKxmcvVC8sRJC6251MXMgN7y1GdQa_weKT1hm-9JqfotvA_CJtGZhNUfeeoufNbBWWHMrMc5P79bO3nsdAs0Q8AkDpV8VEGpkjPfz7_9WQ=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/8CR8rtumvwwAaSJEs5b8jue8zdbTSLZW1WMy8TP30A3fpfdke_HWOpuM_acpbSu1FC_RTeXE4w6044kycMnhwgff5NeCHS5q_WjT3FBG1SQr9hyiuefbZC883Ho7GgLuyVRp5I08YA=w1920-h1080"></div>
@@ -210,7 +224,7 @@
        <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
          data-link="https://photos.app.goo.gl/EAwqx9rFqucfG8GRA"
          data-title="Resö Gård..."
-         data-description="9 new items added to shared album">
+         data-description="">
          <div data="https://lh3.googleusercontent.com/ziXICKyVH1MG6ISu8wOeHAdoFWfFTGYERVrU5d_AJi1aS-B8NXK5uQZwyNQJuFMdx1Qf0AFnIlMi2-kzQQB3b_gHOQXWd06bRjNjfjy3yukGIllcUO2Sd0BdqiE5zIQpXSMWLaSB5g=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/yhWftTGDHa140raYOUNlSOv_hqXlhuB0eGDSPFX7R3xC-X8UfmAwnEwvGfG8cDta7GbrPlbwCq8t_qv5-grWKbw4tLWzhWGG73hIytxyPoA6ampOoGGtjX7Er6GVGFsOPrLIEibZdA=w1920-h1080"></div>
          <div data="https://lh3.googleusercontent.com/R6YSgt_r0TnDPYiCFkBal3_AfhkWT5iqoUtz2QynR5ELZouQ34p4V56cNLQaSoA02c1jK4yuZXDWrP4qFcQ8FuHt_4V2YqB4n_lDIvem8907geiqPKxc30YBmOt6FKSgUfGYevUM5Q=w1920-h1080"></div>
