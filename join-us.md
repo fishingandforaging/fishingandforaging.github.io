@@ -44,7 +44,7 @@ The Swedish Shellfish Society was formed by a loosely-knit group of enthusiasts 
         <button class="button" type="Submit">join the shellfish society!</button>
     </form>
 </div>
-x
+
 Let us know if you have any particular interest or skills that you would be prepared to share with the group. Can you open an oyster? steer a small boat? Are you interested in edible plants? 
 Remember, we believe in learning by doing and in sharing our knowledge and experience.
 
