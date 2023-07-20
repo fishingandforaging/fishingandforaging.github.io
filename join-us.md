@@ -14,7 +14,7 @@ The Swedish Shellfish Society was formed by a loosely-knit group of enthusiasts 
 
 <div class="form">
     <form action="https://api.staticforms.xyz/submit" method="post" id="staticform">
-        <input type="hidden" name="accessKey" value="63c9d080-83be-48f7-8c02-07219db6e14c">
+        <input type="hidden" name="accessKey" value="99a1dbf8-a5d1-4d17-a854-4ca3397d5166">
         <input type="hidden" name="subject" value="Membership Application">
         <input type="hidden" name="redirectTo" value="https://fishingandforaging.se/thanks-for-joining">
         <div class="field">
@@ -44,7 +44,7 @@ The Swedish Shellfish Society was formed by a loosely-knit group of enthusiasts 
         <button class="button" type="Submit">join the shellfish society!</button>
     </form>
 </div>
-
+x
 Let us know if you have any particular interest or skills that you would be prepared to share with the group. Can you open an oyster? steer a small boat? Are you interested in edible plants? 
 Remember, we believe in learning by doing and in sharing our knowledge and experience.
 
