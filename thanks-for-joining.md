@@ -6,6 +6,6 @@ title: thanks for joining
 
 # Thanks for Joining Us!
 
-We'll get back to you as soon as we can!
+We shal get back to you as soon as we can!
 
 
