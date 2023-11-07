@@ -50,7 +50,7 @@ Remember, we believe in learning by doing and in sharing our knowledge and exper
 
 Membership gives access to the programme of activities as well as the opportunity to put a group together and, with the help of our various partners, organise an event to suit your own interests and requirements.  
 
-We can help with accommodation, boat charters, fishing trips, foraging excursions, island picnicks, oyster evenings at the boathouse with a guest chef and sommelier, and lots more besides. In fact, to coin a phrase, the world is our oyster.
+We can help with accommodation, boat charters, fishing trips, foraging excursions, island picnicks, oyster evenings at the boathouse with a guest chef and sommelier, and lots more besides. In fact, to coin a phrase, the world is our oysters.
 
 
 
