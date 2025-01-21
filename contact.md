@@ -6,10 +6,10 @@ title: contact
 
 # Contact Us!
 
-Send an email to <contact@fishingandforaging.se>
+Send an email to <colinscottwheatley@fgmail.com>
 
 # Colin Wheatley
-<colin@fishingandforaging.se>
+<colinscottwheatley@fgmail.com>
 
 <a href="tel:0123456789" style="color:red">+46 709 60 46 49</a>
 
