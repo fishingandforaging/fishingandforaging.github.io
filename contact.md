@@ -6,10 +6,10 @@ title: contact
 
 # Contact Us!
 
-Send an email to <colinscottwheatley@fgmail.com>
+Send an email to <colinscottwheatley@gmail.com>
 
 # Colin Wheatley
-<colinscottwheatley@fgmail.com>
+<colinscottwheatley@gmail.com>
 
 <a href="tel:0123456789" style="color:red">+46 709 60 46 49</a>
 
