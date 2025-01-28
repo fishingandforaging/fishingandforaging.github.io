@@ -33,7 +33,7 @@ Talk to Rosa, she'll help find somewhere to suit your particular requirements.
 
 <br />
 
-# Colin Scott Wheatley
+# Colin Scott Wheatley (The Legend)
 
 <img src="/assets/images/Colin.jpg" style="width: 360px;"/>
 
